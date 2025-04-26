@@ -30,7 +30,7 @@ Uma calculadora simples feita com Python usando a biblioteca Tkinter para interf
 
 Acesse a pasta do projeto:
 
-cd nome-do-repositorio
+cd Calculadora.py
 
 Execute o script:
 
