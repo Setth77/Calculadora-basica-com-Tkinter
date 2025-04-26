@@ -25,7 +25,7 @@ Uma calculadora simples feita com Python usando a biblioteca Tkinter para interf
 
     Clone este repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+[git clone https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/Setth77/Calculadora-basica-com-Tkinter/blob/main/Calculadora.py)
 
 Acesse a pasta do projeto:
 
