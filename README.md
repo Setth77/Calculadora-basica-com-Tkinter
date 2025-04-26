@@ -37,9 +37,3 @@ Execute o script:
     python calculadora.py
 
     Observação: Certifique-se de ter o Python instalado em seu sistema. O Tkinter já vem embutido na maioria das instalações padrão do Python.
-
-📁 Estrutura do projeto
-
-📦 nome-do-repositorio
- ┣ 📜 calculadora.py
- ┗ 📜 README.md
